@@ -1,0 +1,24 @@
+Body { 
+    Background-color : green;
+}
+
+p {
+    color : white;
+}
+
+.title{
+    text-align: center;
+    color : red !important;
+}
+#content{
+    border: 2px solid black;
+
+}
+
+div{
+    color: gold;
+}
+
+h2,p.paragraph1,div{
+    text-decoration: line-through;
+}
